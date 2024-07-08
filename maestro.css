@@ -38,6 +38,7 @@ body {
     flex-wrap: wrap;
     gap: 20px;
     position: relative;
+    float: left;
 }
 
     .card:hover {
