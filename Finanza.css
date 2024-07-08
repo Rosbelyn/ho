@@ -1,0 +1,17 @@
+.contenido{
+    margin: auto 5%;
+}
+.encabezado{
+    background-color: turquoise;
+    width: 100;
+    height: 30;
+    margin: auto 5%;
+    
+    
+}
+.hola{
+    background-color: turquoise;
+    width: 200px;
+    height: 25 px;
+    margin: auto 5%;
+}
