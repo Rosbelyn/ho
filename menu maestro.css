@@ -15,9 +15,11 @@
 
 
 .body{
-    background-image: url(f21co2.jpg);
+    background-image: url();
    background-position: center;
     background-size: cover;
+    height: 50px;
+    background-color: khaki;
    
 
    
@@ -30,7 +32,7 @@
     padding: 10px;
     color: white;
     margin-top: 10px;
-    border: 1px solid white;
+    border: 1px solid black;
     border-radius: 4px;
     transition: all 400ms ease;
     font-size: 8;
